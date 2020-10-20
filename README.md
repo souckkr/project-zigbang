@@ -1,4 +1,5 @@
 # Introduction
+ggggggggg
 * 대한민국 대표 주거정보 플랫폼 [직방](https://www.zigbang.com/) 클론 프로젝트
 * 개발기간 : 2020.07.06 ~ 2020.07.17(12일)
 * 개발인원 : Front-end 3명(송민규, 최지원, 현정호), Back-end 3명(김환일, 노광오, 정나온)
